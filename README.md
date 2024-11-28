@@ -1,14 +1,6 @@
-# AI Chatbot with Google GEMINI using Node.js
+# AI Chatbot Module with Google GEMINI
 
-Welcome to the Google Gemini ChatBot project, built using Node.js! This application is designed to provide a seamless conversational experience, leveraging the capabilities of the Google Gemini API.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-
+Welcome to the Google Gemini ChatBot module, built using Node.js!
 
 ## Introduction
 The Google Gemini ChatBot is integrated in a Node.js application that interacts with users through natural language processing, offering a wide range of functionalities powered by the Google Gemini API. Whether you need information, assistance, or just a friendly chat, this bot is here to help.

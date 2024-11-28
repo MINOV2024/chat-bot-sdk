@@ -1,11 +1,11 @@
 {
-  "name": "nodejs_ai_chatbot",
+  "name": "chatbot-sdk",
   "version": "1.0.0",
-  "description": "AI Chatbot with Google GEMINI using Node.js",
-  "main": "index.js",
+  "description": "AI Chatbot with Google GEMINI",
+  "main": "app.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
